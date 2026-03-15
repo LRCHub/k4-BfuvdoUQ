@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "AM",
+  "base_artist": "This is LAST",
+  "createdAt": "2026-03-15T01:47:55.595096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/01_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/02_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby I Am",
+      "artist": "Dalton Dover",
+      "has_synced": true,
+      "path": "select/03_Baby_I_Am_Dalton_Dover.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Am I In Heaven?",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/04_Am_I_In_Heaven_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Am I in Heaven",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Am_I_in_Heaven_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/07_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Am I Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_Am_I_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Am I Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/09_Am_I_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/10_Am_I_The_Only_One_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/11_Am_I_The_Only_One_Who_Cares_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Am I The Only One Who Cares (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/12_Am_I_The_Only_One_Who_Cares_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way?)",
+      "artist": "Maria McKee",
+      "has_synced": true,
+      "path": "select/13_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way_)_Maria_McKee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way)",
+      "artist": "PAUL WORLEY",
+      "has_synced": true,
+      "path": "select/14_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way)_PAUL_WORLEY.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How Am I Doin'",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/15_How_Am_I_Doin'_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Am a Man of Constant Sorrow",
+      "artist": "The Soggy Bottom Boys",
+      "has_synced": true,
+      "path": "select/16_I_Am_a_Man_of_Constant_Sorrow_The_Soggy_Bottom_Boys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Am A Man Of Constant Sorrow (Radio Edit)",
+      "artist": "The Soggy Bottom Boys",
+      "has_synced": true,
+      "path": "select/17_I_Am_A_Man_Of_Constant_Sorrow_(Radio_Edit)_The_Soggy_Bottom_Boys.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Am A Simple Man",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/18_I_Am_A_Simple_Man_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Am A Simple Man (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/19_I_Am_A_Simple_Man_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AM",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_AM_This_is_LAST.txt"
+    }
+  ]
+}
